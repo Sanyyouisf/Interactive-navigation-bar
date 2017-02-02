@@ -1,0 +1,40 @@
+
+nav {
+
+	background-color: grey;
+	padding: 10px;
+}
+
+.navigation li {
+display: inline-block;
+color: blue;
+font-size: 30px;
+margin: 0 20px;
+text-decoration: none;
+
+}
+ul {
+text-align: center;
+
+
+}
+a:hover {
+	color: red;
+	background-color: orange;
+
+}
+
+a {
+	text-decoration: none;
+}
+
+a:active {
+font-size: 35px;
+
+}
+
+
+
+
+
+
